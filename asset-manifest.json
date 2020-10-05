@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.8c461a88.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.8c461a88.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.732442c1.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.732442c1.js.map",
-    "static/js/2.a51ad747.chunk.js": "/react-gh-pages/static/js/2.a51ad747.chunk.js",
-    "static/js/2.a51ad747.chunk.js.map": "/react-gh-pages/static/js/2.a51ad747.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.5812a876ce8699107ed414d0043947b4.js": "/react-gh-pages/precache-manifest.5812a876ce8699107ed414d0043947b4.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-gh-pages/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a51ad747.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.a51ad747.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.732442c1.js",
-    "static/js/2.a51ad747.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.8c461a88.chunk.js"
-  ]
+    "main.css": "/phoebe1008/ob.git/static/css/main.34de6062.chunk.css",
+    "main.js": "/phoebe1008/ob.git/static/js/main.276587dc.chunk.js",
+    "main.js.map": "/phoebe1008/ob.git/static/js/main.276587dc.chunk.js.map",
+    "runtime~main.js": "/phoebe1008/ob.git/static/js/runtime~main.b81d05e3.js",
+    "runtime~main.js.map": "/phoebe1008/ob.git/static/js/runtime~main.b81d05e3.js.map",
+    "static/css/2.48db8b0f.chunk.css": "/phoebe1008/ob.git/static/css/2.48db8b0f.chunk.css",
+    "static/js/2.a7233ab5.chunk.js": "/phoebe1008/ob.git/static/js/2.a7233ab5.chunk.js",
+    "static/js/2.a7233ab5.chunk.js.map": "/phoebe1008/ob.git/static/js/2.a7233ab5.chunk.js.map",
+    "index.html": "/phoebe1008/ob.git/index.html",
+    "precache-manifest.e01368d474041f541b05b6da6f0eb071.js": "/phoebe1008/ob.git/precache-manifest.e01368d474041f541b05b6da6f0eb071.js",
+    "service-worker.js": "/phoebe1008/ob.git/service-worker.js",
+    "static/css/2.48db8b0f.chunk.css.map": "/phoebe1008/ob.git/static/css/2.48db8b0f.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/phoebe1008/ob.git/static/css/main.34de6062.chunk.css.map"
+  }
 }
